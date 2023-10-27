@@ -5,7 +5,7 @@ Proyecto realizado en HTML y CSS, cabe destacar que este proyecto es un aprendiz
 En este proyecto donde trabajo con display flex-box practicando las habilidades de CSS, con intereciones de botones y de paginas de HTML.
 
 Es un proyecto enfocado el Responsive Design por lo que uso media querie y Normalize.
-https://onofredavila.github.io/MiPrimerProyecto/
+https://onofredavila.github.io/FrontEndStore/
 
 ## Autor
 Onofre Davila
