@@ -1,11 +1,12 @@
-## FrontEndStore
+## FrontEndStore 
 ## Descripcion de Proyecto
-Proyecto realizado en HTML y CSS, cabe destacar que este proyecto es un aprendizaje del curso en udemy dictado por el profesor Juan de la Torre (https://www.udemy.com/course/desarrollo-web-completo-con-html5-css3-js-php-y-mysql/).
+Proyecto realizado en HTML y CSS. https://onofredavila.github.io/FrontEndStore/
 
-En este proyecto donde trabajo con display flex-box practicando las habilidades de CSS, con interacciones de botones y transiciones de HTML.
+Proyecto realizado durante mi aprendizaje del curso en udemy dictado por el profesor Juan de la Torre (https://www.udemy.com/course/desarrollo-web-completo-con-html5-css3-js-php-y-mysql/).
+
+En este proyecto trabajo con display flex-box practicando las habilidades de CSS, con interacciones de botones y transiciones de HTML.
 
 Es un proyecto enfocado el Responsive Design por lo que uso media querie y Normalize.
-https://onofredavila.github.io/FrontEndStore/
 
 ## Autor
 Onofre Davila
